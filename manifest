@@ -1,0 +1,18 @@
+commands = {}
+modules = {}
+repository = {
+   mergerx = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+   },
+   key_def = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   }
+}
