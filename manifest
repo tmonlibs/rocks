@@ -14,5 +14,12 @@ repository = {
             arch = "rockspec"
          }
       }
+   },
+   "tuple-keydef" = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
    }
 }
