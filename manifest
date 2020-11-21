@@ -1,13 +1,6 @@
 commands = {}
 modules = {}
 repository = {
-   mergerx = {
-      ["scm-1"] = {
-         {
-            arch = "rockspec"
-         }
-      },
-   },
    key_def = {
       ["scm-1"] = {
          {
@@ -15,7 +8,14 @@ repository = {
          }
       }
    },
-   "tuple-keydef" = {
+   mergerx = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
+   ["tuple-keydef"] = {
       ["scm-1"] = {
          {
             arch = "rockspec"
