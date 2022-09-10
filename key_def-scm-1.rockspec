@@ -1,7 +1,7 @@
 package = 'key_def'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/Totktonada/key_def.git',
+    url    = 'git+https://github.com/Totktonada/key_def.git',
     branch = 'master',
 }
 description = {
